@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luvuyo</h1>
 <h3 align="center">A passionate both Front-end and Back-end developer from South Africa</h3>
 
-- 🔭 I’m currently working on [Vein's barbershop](https://smj-barbershop.netlify.app/)
+- 🔭 I’m currently working on https://github.com/Luvuyotafeni/lux-camera-s
 
 - 🌱 I’m currently learning **MOngoDb,React Js, PostgreSQL**
 
