@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Vein's barbershop](https://smj-barbershop.netlify.app/)
 
-- 🌱 I’m currently learning **Angular JS,React Js**
+- 🌱 I’m currently learning **MOngoDb,React Js, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://luvuyotafeni.netlify.app](https://luvuyotafeni.netlify.app)
+- 👨‍💻 All of my projects are available at (https://portfolio-bb7ce.web.app/)
 
 - 📫 How to reach me **luvuyotafeni012@gmail.com**
 
