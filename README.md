@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on https://github.com/Luvuyotafeni/lux-camera-s
 
-- 🌱 I’m currently learning **MOngoDb,React Js, PostgreSQL**
+- 🌱 I’m currently learning **MongoDb,React Js, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at (https://portfolio-bb7ce.web.app/)
 
